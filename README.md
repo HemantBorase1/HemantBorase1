@@ -48,7 +48,7 @@
 
 ## 🌍 Connect With Me  
 <p align="center">
-<strong>📍 Location:</strong> Kolhapur, Maharashtra  
+<strong>📍 Location:</strong> Pune, Maharashtra  
 <br/>
 <strong>📧 Email:</strong> borasehemant151@gmail.com  
 </p>
